@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ellioth Aguirre",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
